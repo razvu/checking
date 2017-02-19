@@ -1,9 +1,12 @@
 <?php
 
-function add($x,$y)
+function add($n1,$n2)
 {
-  $sum=$x+$y;
-  return sum;
+	$sum=$n1+$n2;
+	return $sum;
 }
+
+
+
 
 ?>
